@@ -1,0 +1,30 @@
+.box_container{
+    background-color:#050f18;
+    color:white;
+   height: 50px;
+   margin: auto;
+   font-weight: bold;
+}
+.container{
+    width: 800px;
+    border:1px solid red;
+    margin: auto;
+    background-color: #092840;
+    color:aliceblue;
+}
+
+.forcast{
+    background: white;
+    color: black;
+}
+.main-for{
+    display: flex;
+    justify-content: space-between;
+}
+.btn{
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+margin-top: 50px;
+border: 1px solid pink;
+}
